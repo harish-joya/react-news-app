@@ -1,0 +1,188 @@
+{
+  "status": "ok",
+  "totalResults": 38533,
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "The US is reportedly encouraging countries to adopt Musk’s Starlink in tariff trade talks",
+      "description": "The US government is bringing up Starlink adoption in the midst of tariff trade talks with other countries, according to a report from The Washington Post. In recent weeks, several countries have moved forward with licensing the Elon Musk-owned satellite inte…",
+      "url": "https://www.theverge.com/news/663839/us-government-starlink-tariff-talks-elon-musk",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK022_ELON_MUSK_2_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2025-05-08T20:05:39Z",
+      "content": "India, Lesotho, Bangladesh, and other countries have moved forward with Starlink adoption in recent weeks.\r\nIndia, Lesotho, Bangladesh, and other countries have moved forward with Starlink adoption i… [+1997 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "UK and India agree landmark trade deal",
+      "description": "The deal will give better access for UK whisky and cars to the Indian market.",
+      "url": "https://www.bbc.com/news/articles/c5y6y90e5vzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "publishedAt": "2025-05-06T13:18:11Z",
+      "content": "After three years of on-off negotiations, the UK and India have agreed a trade deal which will make it easier for UK firms to export whisky, cars and other products to India, and cut taxes on India's… [+1303 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Why India and Pakistan fight over Kashmir",
+      "description": "They fought two wars over it and are nuclear armed - but what's at the root of the dispute?",
+      "url": "https://www.bbc.co.uk/news/10537286",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8B7A/production/_105660753_mediaitem105660752.jpg",
+      "publishedAt": "2025-05-07T07:05:20Z",
+      "content": "Within Kashmir, opinions about the territory's rightful allegiance are diverse and strongly held. Many do not want it to be governed by India, preferring either independence or union with Pakistan in… [+1595 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "India closes main border crossing with Pakistan after Kashmir attack",
+      "description": "India also cancels some visas held by Pakistanis and expels diplomats as tensions rise following the killing of tourists.",
+      "url": "https://www.bbc.com/news/articles/ce8g2njm2d2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b441/live/43013bc0-2067-11f0-9c65-a5c3dc449bf3.jpg",
+      "publishedAt": "2025-04-23T17:44:10Z",
+      "content": "India has announced measures targeting Pakistan, a day after 26 people were killed by gunmen in an attack in Indian-administered Kashmir. \r\nThey include the closure of the main border crossing linkin… [+2316 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "PM Modi and Elon Musk talk India-US tech collaboration",
+      "description": "Modi said he discussed with Musk India's potential to collaborate with the US on technology.",
+      "url": "https://www.bbc.com/news/articles/c8073ggz1eeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ab15/live/399adf50-1c39-11f0-857e-c31f6e495ac8.jpg",
+      "publishedAt": "2025-04-18T12:12:50Z",
+      "content": "Indian Prime Minister Narendra Modi said he discussed his country's potential to collaborate with the US on \"technology and innovation\" during a conversation with Elon Musk.\r\nOn Friday, Modi shared a… [+1815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Stephan Shemilt",
+      "title": "IPL suspended for one week over safety concerns",
+      "description": "The Indian Premier League is suspended for one week amid the ongoing tensions between India and neighbouring Pakistan.",
+      "url": "https://www.bbc.com/sport/cricket/articles/c753n4ngd0ko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "publishedAt": "2025-05-09T09:21:32Z",
+      "content": "The Indian Premier League has been suspended for one week amid the ongoing tensions between India and neighbouring Pakistan.\r\nOvernight, India accused Pakistan of attacking three of its military base… [+1786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "US urges India and Pakistan to defuse tensions after Kashmir killings",
+      "description": "India accuses Pakistan of supporting militants behind the Kashmir attack, which Islamabad denies.",
+      "url": "https://www.bbc.com/news/articles/cvgnw9kydgqo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d11a/live/809e3c80-2648-11f0-a2f4-51c368a7a800.jpg",
+      "publishedAt": "2025-05-01T07:51:50Z",
+      "content": "Nikita Yadav\r\nA paramilitary soldier stands guard at a busy street in Srinagar city\r\nThe US has urged India and Pakistan to work together to \"de-escalate tensions\" after a deadly militant attack in I… [+5397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Despite the India-Pakistan ceasefire, these five measures remain",
+      "description": "India and Pakistan have ceased military hostilities, but diplomatic retaliatory measures remain in place.",
+      "url": "https://www.bbc.com/news/articles/c17r04qp4xdo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4c45/live/23ec7480-2fcf-11f0-98b6-f3b9a866c26c.jpg",
+      "publishedAt": "2025-05-13T10:11:58Z",
+      "content": "Nikita Yadav\r\nIndia and Pakistan agreed to a ceasefire on Saturday\r\nDays after India and Pakistan agreed to a ceasefire, questions remain over what lies ahead for the two South Asian neighbours.\r\nEar… [+5790 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "YouTube is experimenting with a Premium plan for two people",
+      "description": "YouTube is testing a YouTube Premium subscription plan designed for two people to use, Moneycontrol reports (via Android Authority). Company spokesperson Alex McQuiston confirmed to The Verge that the pilot is taking place in India, France, Taiwan, and Hong K…",
+      "url": "https://www.theverge.com/news/661462/youtube-premium-two-people-plan",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-05T20:09:45Z",
+      "content": "The plan would offer Premium benefits at a reduced cost.\r\nThe plan would offer Premium benefits at a reduced cost.\r\nYouTube is testing a YouTube Premium subscription plan designed for two people to u… [+1049 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Matthew Henry",
+      "title": "PSL considering postponing rest of season",
+      "description": "The Pakistan Super League is considering postponing the remainder of its season amid the ongoing tensions between India and Pakistan.",
+      "url": "https://www.bbc.com/sport/cricket/articles/cr4z023edyko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/df25/live/4a2103c0-2c0d-11f0-8da1-ad2bbee6cda5.jpg",
+      "publishedAt": "2025-05-08T17:27:22Z",
+      "content": "James Vince, Chris Jordan, Tom Curran, David Willey, Sam Billings, Luke Wood and Tom Kohler-Cadmore are the English players involved in the PSL, while there are also English coaches at various franch… [+2312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "India worried about Chinese 'dumping' as trade tensions with Trump escalate",
+      "description": "Experts warn that a flood of cheap Chinese goods could hurt the competitiveness of Indian exports.",
+      "url": "https://www.bbc.com/news/articles/ckg5d505v8xo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3ae2/live/92442840-2978-11f0-a23a-6f1ab69151cb.jpg",
+      "publishedAt": "2025-05-05T23:58:02Z",
+      "content": "Archana ShuklaIndia business correspondent\r\nCheaper Chinese imports have have slowed down demand for viscose yarn made in India\r\nThe pace at 64-year-old Thirunavkarsu's spinning mill in southern Indi… [+6418 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Chris Mason: Can UK-India trade deal mask Labour's problems at home?",
+      "description": "Labour says the deal has \"tangible benefits\", but it comes as the government faces heat at home.",
+      "url": "https://www.bbc.com/news/articles/cm2e2e5rp71o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2e8b/live/138c4ef0-2acd-11f0-85c6-0f15ea8e6681.jpg",
+      "publishedAt": "2025-05-07T05:46:49Z",
+      "content": "Within moments of the briefing with the business secretary beginning, Jonathan Reynolds described it to us as a case study in the government's claim to be going further and faster in doing what it ca… [+2853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Watch: Ground report from the site of air strikes in Pakistan's Muridke",
+      "description": "The building, which is located in a densely-populated area, remains cordoned off by security forces.",
+      "url": "https://www.bbc.com/news/videos/c9djd6442n1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5326/live/32ea1fb0-2b14-11f0-b26b-ab62c890638b.jpg",
+      "publishedAt": "2025-05-07T07:46:11Z",
+      "content": "BBC Urdu's Umer Draz Nangiana reports from outside a building complex in Pakistan's Muridke, which was targeted by India in its overnight air strikes. The building, which lies in a densely-populated … [+276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "India and Pakistan accuse each other of 'violations' after ceasefire deal",
+      "description": "Delhi and Islamabad accused each other of breaching a ceasefire brokered after four days of cross-border attacks.",
+      "url": "https://www.bbc.com/news/articles/cvg9d913v20o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2817/live/99e5c210-2dd9-11f0-8ff1-59f5dcf8e9f5.jpg",
+      "publishedAt": "2025-05-10T20:12:01Z",
+      "content": "India and Pakistan have accused each other of \"violations\" hours after the two nations said they had agreed to a ceasefire following days of cross-border military strikes.\r\nAfter sounds of explosions… [+4585 chars]"
+    }
+  ]
+}
