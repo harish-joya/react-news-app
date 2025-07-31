@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import NewsItem from './NewsItem'
 
+const apiKey = process.env.REACT_APP_NEWS_API_KEY;
+
 export class News extends Component {
 
     constructor(){
@@ -13,7 +15,7 @@ export class News extends Component {
     }
 
     async componentDidMount(){
-        let url=`https://newsapi.org/v2/everything?q=${this.props.q?this.props.q:"everything"}&apiKey=d763f0d25918483f8f573b93b3edb9f9
+        let url=`https://newsapi.org/v2/everything?q=${this.props.q?this.props.q:"everything"}&apiKey=${apiKey}
         &page=${this.state.page + 1}
         &pagesize=${this.props.pageSize}`;
         let data = await fetch(url);
@@ -24,7 +26,7 @@ export class News extends Component {
     handleNextClick = async ()=>{
         console.log("next");
 
-        let url=`https://newsapi.org/v2/everything?q=${this.props.q?this.props.q:'everything'}&apiKey=d763f0d25918483f8f573b93b3edb9f9
+        let url=`https://newsapi.org/v2/everything?q=${this.props.q?this.props.q:'everything'}&apiKey=${apiKey}
         &page=${this.state.page + 1}
         &pagesize=${this.props.pageSize}`;
         let data = await fetch(url);
@@ -39,7 +41,7 @@ export class News extends Component {
     handlePreviousClick = async ()=>{
         console.log("prev");
 
-        let url=`https://newsapi.org/v2/everything?q=${this.props.q?this.props.q:"everything"}&apiKey=d763f0d25918483f8f573b93b3edb9f9
+        let url=`https://newsapi.org/v2/everything?q=${this.props.q?this.props.q:"everything"}&apiKey=${apiKey}
         &page=${this.state.page + 1}
         &pagesize=${this.props.pageSize}`;
         let data = await fetch(url);
